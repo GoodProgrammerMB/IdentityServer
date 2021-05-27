@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP.IdentityServer", "GP.IdentityServer\GP.IdentityServer.csproj", "{CFDB1A96-AF59-4959-AC96-CBF41A40EA99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFDB1A96-AF59-4959-AC96-CBF41A40EA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDB1A96-AF59-4959-AC96-CBF41A40EA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDB1A96-AF59-4959-AC96-CBF41A40EA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDB1A96-AF59-4959-AC96-CBF41A40EA99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74572142-0C00-4E8E-8966-C2503C092CE9}
+	EndGlobalSection
+EndGlobal
