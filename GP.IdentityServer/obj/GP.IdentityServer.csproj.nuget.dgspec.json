@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJEKTY\\GP.IdentitiServer\\GP.IdentityServer\\GP.IdentityServer.csproj": {}
+    "D:\\GITREPO\\_Solutions\\IdentityServer\\GP.IdentityServer\\GP.IdentityServer.csproj": {}
   },
   "projects": {
-    "D:\\PROJEKTY\\GP.IdentitiServer\\GP.IdentityServer\\GP.IdentityServer.csproj": {
+    "D:\\GITREPO\\_Solutions\\IdentityServer\\GP.IdentityServer\\GP.IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJEKTY\\GP.IdentitiServer\\GP.IdentityServer\\GP.IdentityServer.csproj",
+        "projectUniqueName": "D:\\GITREPO\\_Solutions\\IdentityServer\\GP.IdentityServer\\GP.IdentityServer.csproj",
         "projectName": "GP.IdentityServer",
-        "projectPath": "D:\\PROJEKTY\\GP.IdentitiServer\\GP.IdentityServer\\GP.IdentityServer.csproj",
-        "packagesPath": "C:\\Users\\Matmx\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJEKTY\\GP.IdentitiServer\\GP.IdentityServer\\obj\\",
+        "projectPath": "D:\\GITREPO\\_Solutions\\IdentityServer\\GP.IdentityServer\\GP.IdentityServer.csproj",
+        "packagesPath": "C:\\Users\\barti\\.nuget\\packages\\",
+        "outputPath": "D:\\GITREPO\\_Solutions\\IdentityServer\\GP.IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Matmx\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\barti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "http://nuget.portacapena.com/nuget": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -90,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
         }
       }
     }
